@@ -29,11 +29,17 @@
   width: 25%;
 }
 .information {
-  padding: 10px;
+  padding: 15px;
   width: 75%;
   border: 1px solid red;
   display: flex;
   gap: 15px;
+  color: black;
+  font-size: 30px;
+}
+.information > span {
+  color: black;
+  font-size: 30px;
 }
 .information > p {
   /* width: 400px; */
@@ -46,4 +52,8 @@
   border: 2px solid red;
   /* width: 80%; */
   margin: 3px 0;
+}
+
+.custom-heading {
+  font-size: 50px;
 }
