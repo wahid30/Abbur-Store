@@ -1,8 +1,12 @@
 * {
   color: red;
+  font-size: 25px;
 }
 .main-container {
   text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
 }
 .custom-flex {
   padding: 10px;
@@ -22,10 +26,11 @@
   width: 100%;
 }
 .information-container > p {
-  width: 10%;
+  width: 25%;
 }
 .information {
-  width: 90%;
+  padding: 10px;
+  width: 75%;
   border: 1px solid red;
   display: flex;
   gap: 15px;
@@ -39,5 +44,6 @@
 
 .section-container {
   border: 2px solid red;
-  width: 50%;
+  /* width: 80%; */
+  margin: 3px 0;
 }
