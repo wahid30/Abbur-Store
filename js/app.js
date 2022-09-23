@@ -22,7 +22,7 @@ const displayMyData = (datas) => {
           <h3>অস্থায়ি ঘর বা দোকান ভাড়ার রসিদ</h3>
         </div>
         <div class="custom-flex">
-          <p>নং</p>
+          <p>নংঃ</p>
           <p>
             ভাড়াটিয়ার অংশ <br />
             গৃহ বা হোল্ডিং নং
@@ -30,7 +30,7 @@ const displayMyData = (datas) => {
           <p id="house-no" class="custom-filed">${house}</p>
         </div>
         <div class="information-container">
-          <p>মালিক</p>
+          <p>মালিকঃ</p>
           <div class="information">
             <span>${recentUnit}</span>
             <span>-</span>
@@ -44,7 +44,7 @@ const displayMyData = (datas) => {
           </div>
         </div>
         <div class="information-container">
-          <p>মাসিক ভাড়া</p>
+          <p>মাসিক ভাড়াঃ</p>
           <div class="information">
             <span>${monthlyRent}</span>
             <span>+</span>
@@ -54,23 +54,23 @@ const displayMyData = (datas) => {
           </div>
         </div>
         <div class="information-container">
-          <p>অস্থায়ী ভাড়াটিয়ার নাম</p>
-          <div class="information">---</div>
+          <p>অস্থায়ী ভাড়াটিয়ার নামঃ</p>
+          <div class="information">...</div>
         </div>
         <div class="information-container">
-          <p>রশিদ জমা দানের তারিখ</p>
+          <p>রশিদ জমা দানের তারিখঃ</p>
           <div class="information">30-09-2022</div>
         </div>
         <div class="information-container">
-          <p>মোট</p>
+          <p>মোটঃ</p>
           <div class="information">${totalBill}</div>
         </div>
         <div class="information-container">
-          <p>তারিখ</p>
+          <p>তারিখঃ</p>
           <div class="information">10-10-2022</div>
         </div>
         <div class="information-container">
-          <p>মালিক বা তাহাঁর কর্মচারী সাক্ষর</p>
+          <p>মালিক বা তাহাঁর কর্মচারী সাক্ষরঃ</p>
           <div class="information">...</div>
         </div>
     `;

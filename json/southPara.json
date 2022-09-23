@@ -103,5 +103,110 @@
     "recentUnit": 4049,
     "previewsUnit": 3995,
     "monthlyRent": 3300
+  },
+  {
+    "id": "C-1",
+    "house": "নতুন নিছেঃ এ-০১",
+    "recentUnit": 3194,
+    "previewsUnit": 3106,
+    "monthlyRent": 3600
+  },
+  {
+    "id": "C-2",
+    "house": "নতুন নিছেঃ এ-০২",
+    "recentUnit": 2616,
+    "previewsUnit": 2525,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "C-3",
+    "house": "নতুন নিছেঃ এ-০৩",
+    "recentUnit": 3160,
+    "previewsUnit": 3091,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "C-4",
+    "house": "নতুন নিছেঃ এ-০৪",
+    "recentUnit": 4079,
+    "previewsUnit": 3948,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "C-5",
+    "house": "নতুন নিছেঃ এ-০৫",
+    "recentUnit": 774,
+    "previewsUnit": 705,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "C-6",
+    "house": "নতুন নিছেঃ এ-০৬",
+    "recentUnit": 3225,
+    "previewsUnit": 3171,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "D-7",
+    "house": "নতুন উপরেঃ বি-০৭",
+    "recentUnit": 4541,
+    "previewsUnit": 4438,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "D-8",
+    "house": "নতুন উপরেঃ বি-০৮",
+    "recentUnit": 4448,
+    "previewsUnit": 4354,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "D-9",
+    "house": "নতুন উপরেঃ বি-০৯",
+    "recentUnit": 5329,
+    "previewsUnit": 5241,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "D-10",
+    "house": "নতুন উপরেঃ বি-১০",
+    "recentUnit": 4795,
+    "previewsUnit": 4703,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "D-11",
+    "house": "নতুন উপরেঃ বি-১১",
+    "recentUnit": 1787,
+    "previewsUnit": 1719,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "D-12",
+    "house": "নতুন উপরেঃ বি-১২",
+    "recentUnit": 4191,
+    "previewsUnit": 4107,
+    "monthlyRent": 3800
+  },
+  {
+    "id": "E-1",
+    "house": "টিনঃ0১",
+    "recentUnit": 1715,
+    "previewsUnit": 1670,
+    "monthlyRent": 2100
+  },
+  {
+    "id": "E-2",
+    "house": "টিনঃ 0২",
+    "recentUnit": 1956,
+    "previewsUnit": 1840,
+    "monthlyRent": 2100
+  },
+  {
+    "id": "E-3",
+    "house": "টিনঃ 0৩",
+    "recentUnit": 3657,
+    "previewsUnit": 3563,
+    "monthlyRent": 2100
   }
 ]
