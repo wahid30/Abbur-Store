@@ -37,7 +37,7 @@ const displayMyData = (datas) => {
             <span>${previewsUnit}</span>
             <span>=</span>
             <span>${unit}</span>
-            <span>X</span>
+            <span>*</span>
             <span>7</span>
             <span>=</span>
             <span>${finalUnit}</span>
