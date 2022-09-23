@@ -29,9 +29,9 @@ const displayMyData = (datas) => {
         <div class="information-container">
           <p>মালিক</p>
           <div class="information">
-            <span>4500</span>
+            <span>${recentUnit}</span>
             <span>-</span>
-            <span>4200</span>
+            <span>${previewsUnit}</span>
             <span>=</span>
             <span>300</span>
             <span>X</span>
@@ -43,7 +43,7 @@ const displayMyData = (datas) => {
         <div class="information-container">
           <p>মাসিক ভাড়া</p>
           <div class="information">
-            <span>4000</span>
+            <span>${monthlyRent}</span>
             <span>+</span>
             <span>2100</span>
             <span>=</span>
