@@ -8,7 +8,10 @@ const displayMyData = (datas) => {
   datas.forEach((data) => {
     // console.log(data);
     const { house, recentUnit, previewsUnit, monthlyRent } = data;
-    // console.log(recentUnit);
+    const unit = recentUnit - previewsUnit;
+    const finalUnit = unit * 7;
+    const totalBill = monthlyRent + finalUnit;
+    // console.log(totalBill);
     const parentContainer = document.getElementById("container");
     const div = document.createElement("div");
     div.classList.add("section-container");
@@ -33,11 +36,11 @@ const displayMyData = (datas) => {
             <span>-</span>
             <span>${previewsUnit}</span>
             <span>=</span>
-            <span>300</span>
+            <span>${unit}</span>
             <span>X</span>
             <span>7</span>
             <span>=</span>
-            <span>2100</span>
+            <span>${finalUnit}</span>
           </div>
         </div>
         <div class="information-container">
@@ -45,9 +48,9 @@ const displayMyData = (datas) => {
           <div class="information">
             <span>${monthlyRent}</span>
             <span>+</span>
-            <span>2100</span>
+            <span>${finalUnit}</span>
             <span>=</span>
-            <span>6100</span>
+            <span>${totalBill}</span>
           </div>
         </div>
         <div class="information-container">
@@ -60,7 +63,7 @@ const displayMyData = (datas) => {
         </div>
         <div class="information-container">
           <p>মোট</p>
-          <div class="information">0</div>
+          <div class="information">${totalBill}</div>
         </div>
         <div class="information-container">
           <p>তারিখ</p>
