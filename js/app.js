@@ -11,6 +11,7 @@ const displayMyData = (datas) => {
     // console.log(recentUnit);
     const parentContainer = document.getElementById("container");
     const div = document.createElement("div");
+    div.classList.add("section-container");
     div.innerHTML = `
     <div>
           <h1 class="custom-heading">মেসার্স আলম শপিং সেন্টার</h1>
@@ -23,7 +24,7 @@ const displayMyData = (datas) => {
             ভাড়াটিয়ার অংশ <br />
             গৃহ বা হোল্ডিং নং
           </p>
-          <p id="house-no" class="custom-filed">পুরাতন নিচেঃ এ-০১</p>
+          <p id="house-no" class="custom-filed">${house}</p>
         </div>
         <div class="information-container">
           <p>মালিক</p>
