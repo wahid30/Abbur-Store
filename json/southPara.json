@@ -1,22 +1,107 @@
 [
   {
     "id": "A-1",
+    "house": "পুরাতন নিচেঃ এ-০১",
     "previewsUnit": 2500,
-    "recentUnit": 2700
+    "recentUnit": 2700,
+    "monthlyRent": 2900
   },
   {
     "id": "A-2",
-    "previewsUnit": 3000,
-    "recentUnit": 3100
+    "house": "পুরাতন নিচেঃ এ-০২",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 2900
   },
   {
     "id": "A-3",
-    "previewsUnit": 2000,
-    "recentUnit": 2200
+    "house": "পুরাতন নিচেঃ এ-০৩",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 2900
   },
   {
     "id": "A-4",
-    "previewsUnit": 4000,
-    "recentUnit": 4250
+    "house": "পুরাতন নিচেঃ এ-০৪",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3100
+  },
+  {
+    "id": "A-5",
+    "house": "পুরাতন নিচেঃ এ-০৫",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3100
+  },
+  {
+    "id": "A-6",
+    "house": "পুরাতন নিচেঃ এ-০৬",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 2900
+  },
+  {
+    "id": "A-7",
+    "house": "পুরাতন নিচেঃ এ-০৭",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 2900
+  },
+  {
+    "id": "B-8",
+    "house": "পুরাতন উপরেঃ বি-০৮",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-9",
+    "house": "পুরাতন উপরেঃ বি-০৯",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-10",
+    "house": "পুরাতন উপরেঃ বি-১০",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-11",
+    "house": "পুরাতন উপরেঃ বি-১১",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-12",
+    "house": "পুরাতন উপরেঃ বি-১২",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-13",
+    "house": "পুরাতন উপরেঃ বি-১৩",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-14",
+    "house": "পুরাতন উপরেঃ বি-১৪",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3700
+  },
+  {
+    "id": "B-15",
+    "house": "পুরাতন উপরেঃ বি-১৫",
+    "previewsUnit": 2500,
+    "recentUnit": 2700,
+    "monthlyRent": 3300
   }
 ]
